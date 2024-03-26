@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+
+  .container {
+    display: flex;
+    height: 100vh;
+  }
+
+  .description {
+    flex: 1;
+    background-color:white;
+    padding: 40px;
+  }
+
+  .image {
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    height: 90%;
+    width: 70%;
+    margin: 35px 10px 0px 10px;
+  }
+
+  h1 {
+    margin-top: 100px;
+    font-size: 32px;
+    color: #40128B;
+    font-family: 'Montserrat', sans-serif;
+  }

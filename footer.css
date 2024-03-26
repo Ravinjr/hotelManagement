@@ -1,0 +1,11 @@
+footer{
+    background-color: palegoldenrod;
+    padding: 10px;
+  }
+  footer a{
+    text-decoration: none;
+    margin: 10px;
+  }
+  footer a:visited,footer a:link{
+    color: blue;
+  }

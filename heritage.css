@@ -1,0 +1,104 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background-color: #EAFDFC;
+}
+.title{
+  font-size: 100px;
+  font-family: 'Satisfy', cursive;
+  color: #40128B;
+  text-align: center;
+}
+table{
+  width: 100%;
+  border: 0px solid black;
+}
+table tr{
+  text-align: center;
+}
+td{
+  display: inline-block;
+  width: 25%;
+  height: 300px;
+  margin: 7px;
+  border: 0px solid black;
+}
+table tr:nth-child(1) td{
+  width: 31.1%;
+}
+table tr:nth-child(2) td{
+  width: 23%;
+}
+table tr:nth-child(3) td{
+  width: 31.1%;
+}
+table a{
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+table div{
+  position: absolute;
+  bottom: 0px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  background-color: black;
+  color: white;
+  opacity: 0.7;
+  padding: 10px 0 10px 0;
+  font-size: large;
+}
+.one{
+  background-image: url('/images/bundala.jpg');
+  background-size: cover;
+  position: relative;
+}
+.two{
+  background-image: url('/images/kataragama.jpg');
+  background-size: cover;
+  position: relative;
+}
+.three{
+  background-image: url('/images/ussangoda.jpg');
+  background-size: cover;
+  position: relative;
+}
+.four{
+  background-image: url('/images/madunagala.JPG');
+  background-size: cover;
+  position: relative;
+}
+.five{
+  background-image: url('/images/sithulpawwa.jpg');
+  background-size: cover;
+  position: relative;
+}
+.six{
+  background-image: url('/images/udawalawe.jpg');
+  background-size: cover;
+  position: relative;
+}
+.seven{
+  background-image: url('/images/mulgirigala.jpg');
+  background-size: cover;
+  position: relative;
+}
+.eight{
+  background-image: url('/images/naigala.JPG');
+  background-size: cover;
+  position: relative;
+}
+.nine{
+  background-image: url('/images/tissamaharama.jpg');
+  background-size: cover;
+  position: relative;
+}
+.ten{
+  background-image: url('/images/yala2.jpg');
+  background-size: cover;
+  position: relative;
+}
+
+

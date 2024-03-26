@@ -1,0 +1,78 @@
+body {
+  background-color: #EAFDFC;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  padding: 0px;
+  font-size: 100%;
+  box-sizing: border-box;
+}
+
+/*----------------------------------------------------*/
+img[alt="logo"]{
+  height: 100px;
+  margin-right: 10px;
+
+}
+.homepage{
+  display: flexbox;
+}
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #40128B;
+  display: inline-block;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #40128B;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #40128B;
+}
+
+.top-container {
+  padding-top: 0px;
+}
+.front{
+  width: 300px;
+  height: 250px;
+  border-radius: 30px;
+}
+
+.dev {
+  text-decoration: underline;
+}
+
+.down {
+  color: #917FB3;
+}
+footer{
+  background-color: palegoldenrod;
+  padding: 10px;
+}
+footer a{
+  text-decoration: none;
+  margin: 10px;
+}
+footer a:visited,footer a:link{
+  color: blue;
+}
+.homepage-img2, .homepage-img3{
+  display: inline-block;
+}
+.para1, .para2{
+  text-align: left;
+  margin-left: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.hambantota1{
+  border-radius: 8px;
+  height: 400px;
+  width: 100%;
+}
